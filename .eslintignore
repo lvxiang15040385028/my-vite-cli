@@ -1,0 +1,4 @@
+.eslintrc.cjs
+src/assets/**
+src/**/*.css
+src/**/*.scss
